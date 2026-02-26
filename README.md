@@ -36,21 +36,34 @@ ContractLens is an AI-powered contract review bot built for the **AI Engineer Hi
 ## PDF Upload
 
 <img width="1915" height="920" alt="pd1" src="https://github.com/user-attachments/assets/b0d3d37e-1a61-4173-95a4-ff89d386800f" />
-Key Details:
+
+<img width="1818" height="907" alt="current" src="https://github.com/user-attachments/assets/33cca037-83e3-4219-bba0-68262d2c4c9b" />
+
+## Key Details
+
 <img width="1891" height="917" alt="pd2" src="https://github.com/user-attachments/assets/cf951148-3d0d-4ba0-8698-9b594e74f7f7" />
-Risk Analysis:
+
+## Risk Analysis
+
 <img width="1882" height="912" alt="pd3" src="https://github.com/user-attachments/assets/58185d78-a31c-4b15-bfe6-7bee6b0e3c98" />
 
 <img width="1891" height="915" alt="pd4" src="https://github.com/user-attachments/assets/2217c295-9f75-4210-8e78-23e1082f95b8" />
 
-## Text 
+## Text Upload
+
 <img width="1908" height="916" alt="p2" src="https://github.com/user-attachments/assets/914846e1-e515-4afb-9eb1-c437415a713e" />
+
+## Key Details
 
 <img width="1918" height="915" alt="Screenshot 2026-02-26 191146" src="https://github.com/user-attachments/assets/f0688008-34bc-4268-ad96-5cb5389fce40" />
 
+## Risk Analysis
+
 <img width="1886" height="912" alt="p4" src="https://github.com/user-attachments/assets/63b56b01-39a9-40c5-93d1-3af45443ba97" />
 
+
 <img width="1893" height="911" alt="p5" src="https://github.com/user-attachments/assets/761d3792-85c9-48bb-86d3-b548d6dc7a87" />
+
 
 <img width="1891" height="911" alt="p6" src="https://github.com/user-attachments/assets/8571a4b6-e2d7-44a2-b9f9-936b505da667" />
 
