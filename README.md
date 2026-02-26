@@ -36,9 +36,9 @@ ContractLens is an AI-powered contract review bot built for the **AI Engineer Hi
 ## PDF Upload
 
 <img width="1915" height="920" alt="pd1" src="https://github.com/user-attachments/assets/b0d3d37e-1a61-4173-95a4-ff89d386800f" />
-
+Key Details:
 <img width="1891" height="917" alt="pd2" src="https://github.com/user-attachments/assets/cf951148-3d0d-4ba0-8698-9b594e74f7f7" />
-
+Risk Analysis:
 <img width="1882" height="912" alt="pd3" src="https://github.com/user-attachments/assets/58185d78-a31c-4b15-bfe6-7bee6b0e3c98" />
 
 <img width="1891" height="915" alt="pd4" src="https://github.com/user-attachments/assets/2217c295-9f75-4210-8e78-23e1082f95b8" />
